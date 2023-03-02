@@ -1,7 +1,11 @@
 {
   "commands": [
+<<<<<<< HEAD
     "clear A1",
     "flag B7"
+=======
+    "clear A1"
+>>>>>>> e374d750ccddd48c94452866e42156b5244246b5
 
   ]
 }
