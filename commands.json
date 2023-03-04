@@ -1,11 +1,15 @@
 {
   "commands": [
 "clear A4",
+    "flag A6",
     "flag A7",
     "flag A8",
-    "flag B7",
-    "flag G1"
+    "flag B7"
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 58f7796e69ec5c891588d671d926f3ebd4945aa9
   ]
 }
 
