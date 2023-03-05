@@ -26,7 +26,8 @@
     "clear H4",
     "clear H3",
     "flag H2",
-    "clear H1"
+    "clear H1",
+    "end"
   ]
 }
 
