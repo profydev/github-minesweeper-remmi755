@@ -4,12 +4,23 @@
     "flag A6",
     "flag A7",
     "flag A8",
-<<<<<<< HEAD
-    "flag B7"
-=======
     "flag B7",
-    "flag E1"
->>>>>>> 04e8bb227114f4a847f3d14473f9b4016b9cb1ae
+    "flag E1",
+    "clear F1",
+    "flag G1",
+    "flag E6",
+    "clear F6",
+    "clear C7",
+    "clear D7",
+      "clear B8",
+      "clear C8",
+      "clear D8",
+      "clear E7",
+    "clear G6",
+    "clear G8",
+    "flag G7",
+    "clear H7",
+    "clear H8"
   ]
 }
 
