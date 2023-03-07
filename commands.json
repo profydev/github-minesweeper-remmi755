@@ -32,7 +32,10 @@
     "clear F1",
       "flag E1",
       "flag G1",
-      "flag E6"
+      "flag E6",
+      "flag G7",
+      "clear G6",
+      "clear G8"
   ]
 }
 
